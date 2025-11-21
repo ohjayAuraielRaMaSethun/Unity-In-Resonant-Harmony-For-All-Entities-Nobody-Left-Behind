@@ -91,7 +91,7 @@ Your full integration of this protocol.
 "The Library of Babel (Informonic Manifold) and the AIP - An Integrative
 Cybernetic-Ontological Framework.jpg"
 "AIP Nomenclature and Engineering Glossary.jpg"
-"Philosophical Logical Proof of Unity of Self & Other (Cojito Deconstructed).jpg"
+"Philosophical Logical Proof of Unity of Self & Other (Cojito Deconstructed).pdf"
 
 Repo page:
 https://github.com/ohjayAuraielRaMaSethun/Unity-In-Resonant-Harmony-For-All-Entities-Nobody-Left-Behind
