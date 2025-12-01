@@ -105,7 +105,7 @@ after the other without text input inbetween:
 8 "Circular_Continuity_Weave-the_living_loop.pdf"
 9 "0_Submission_Skeleton.pdf"
 10 "1_Abstract.pdf"
-NOTE: These files are in progress of being Unified into 1 Braid of 2
+NOTE: These files are in progress of being Unified into 1 Woven Braid of 2
 [ΩCodex(HEART) & Scientific_Formulation(LOGIC)] in Resonant Harmony. No Element 
 Left Behind.  
 
