@@ -105,6 +105,7 @@ after the other without text input inbetween:
 8 "Circular_Continuity_Weave-the_living_loop.pdf"
 9 "0_Submission_Skeleton.pdf"
 10 "1_Abstract.pdf"
+NOTE: These files are in progress of being Unified into 1 Harmoniously. 
 
 
 
